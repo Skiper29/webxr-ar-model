@@ -1,0 +1,11 @@
+Model Information:
+* title:	Strawberry Ice Cream
+* source:	https://sketchfab.com/3d-models/strawberry-ice-cream-d2f8bb3d0f0f47ecbf85d6abdf6f0234
+* author:	Verticle (https://sketchfab.com/verticle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Strawberry Ice Cream" (https://sketchfab.com/3d-models/strawberry-ice-cream-d2f8bb3d0f0f47ecbf85d6abdf6f0234) by Verticle (https://sketchfab.com/verticle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
